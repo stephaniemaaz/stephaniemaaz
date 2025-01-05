@@ -1,25 +1,29 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate @UWaterloo, <a href="mailto:smaaz@uwaterloo.ca">smaaz@uwaterloo.ca</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: steph-profile2.jpeg 
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Stephanie Maaz @ <a href="https://g.co/kgs/iguHPTp">Cedars</a></p>
+    <p>University of Waterloo</p>
+    <p>Waterloo, Canada</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+ 
+Salut :wave:, I am a fourth-year PhD Candidate at the <a href="https://uwaterloo.ca">University of Waterloo</a> in the <a href="https://algcomp.uwaterloo.ca/">Algorithms and Complexity Group</a>, researching Efficient Algorithms for Dynamic Environments.
+My supervisors are <a href="https://cs.uwaterloo.ca/~nishi/">Naomi Nishimura</a> and 
+<a href="https://www.aub.edu.lb/pages/profile.aspx?MemberId=aa368">Amer E. Mouawad</a>.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<br>
+<div style="text-align: center;">
+<a href="https://stephaniemaaz.github.io/assets/pdf/cv-stephanie-maaz.pdf">[Curriculum Vitae]</a>
+</div>
+<br>
